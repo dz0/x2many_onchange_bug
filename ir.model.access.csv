@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_demo_parent,Parent Demo (Manager),model_demo_parent,tms_base.group_tms_order_manager,1,1,1,1
+access_computed_child,Computed Child (Manager),model_computed_child,tms_base.group_tms_order_manager,1,1,1,1
+
