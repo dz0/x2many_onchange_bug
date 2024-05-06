@@ -8,7 +8,12 @@
                     <sheet>
                         <group>
                             <field name="number"/>
-                            <field name="child_ids"/>
+                            <field name="child_ids">
+                                <tree>
+                                    <field name="id"/>
+                                    <field name="msg"/>
+                                </tree>
+                            </field>
                         </group>
                     </sheet>
                 </form>
